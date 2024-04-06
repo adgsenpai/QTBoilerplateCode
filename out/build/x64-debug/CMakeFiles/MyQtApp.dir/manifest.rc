@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/MyQtApp.dir/embed.manifest"

@@ -1,0 +1,4 @@
+C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/MyQtApp.dir
+C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/MyQtApp_autogen.dir

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyQtProject",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyQtApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyQtApp-Debug-95bdba8757396014e2bd.json",
+					"name" : "MyQtApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyQtApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyQtApp_autogen-Debug-190ca04f5f278d038ce1.json",
+					"name" : "MyQtApp_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug",
+		"source" : "C:/Users/adgsenpai/Desktop/QTBoilerplateCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

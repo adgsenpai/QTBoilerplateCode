@@ -1,0 +1,8 @@
+# ninja log v5
+5	49	0	CMakeFiles/MyQtApp_autogen	10592604d903cecf
+5	49	0	MyQtApp_autogen/mocs_compilation.cpp	10592604d903cecf
+5	49	0	C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/CMakeFiles/MyQtApp_autogen	10592604d903cecf
+5	49	0	C:/Users/adgsenpai/Desktop/QTBoilerplateCode/out/build/x64-debug/MyQtApp_autogen/mocs_compilation.cpp	10592604d903cecf
+49	113	7341275436361225	CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.obj	ed225f9b40aa6686
+52	1176	7341275446986081	CMakeFiles/MyQtApp.dir/main.cpp.obj	85fc2117283d95df
+1177	1735	7341275452172562	MyQtApp.exe	2fec5d26cba14d8c
